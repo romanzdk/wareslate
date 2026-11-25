@@ -5,7 +5,8 @@
 - Specs describe behavior and rules, not screens. Write everything in your own words.
 - Every rule is tagged `[src:N]` (based on public research; the source list is kept in private notes)
   or `[decision]` (a Wareslate design choice).
-- Use generic product-management terms. Do not name other products or their branded features.
+- Use generic product-management terms. Do not reference other product-management tools or their branded feature names.
+  Third-party tools we integrate with (Jira, Slack, GitHub, …) may be named.
 - Keep `specs/PARITY.md` up to date.
 
 ## Code
