@@ -1,10 +1,11 @@
 # Rules for anyone (human or agent) working in this repo
 
 ## Specs
-- One file per module in `specs/`, following `specs/README.md`. Plain, simple language.
+- One file per module in `specs/`, using the format in `specs/README.md`. Plain, simple language.
 - Specs describe behavior and rules, not screens. Write everything in your own words.
-- Every rule is tagged `[src:N]` (based on public research; the source list is kept in private notes)
+- Every rule is tagged `[src:N]` (based on public research; the source list is kept in private material)
   or `[decision]` (a Wareslate design choice).
+- Use only the terms in `specs/GLOSSARY.md` for Wareslate concepts (specs, code, API, UI). Add new terms there first.
 - Use generic product-management terms. Do not reference other product-management tools or their branded feature names.
   Third-party tools we integrate with (Jira, Slack, GitHub, …) may be named.
 - Keep `specs/PARITY.md` up to date.

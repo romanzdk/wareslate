@@ -10,7 +10,7 @@ Plain, simple language. Behavior, not screens.
 What this module covers and what it leaves to other modules (link them).
 
 ## Entities
-Table: entity | field | type | required | notes
+Table: entity | field | type | required | remarks
 
 ## Rules
 Numbered (R1, R2…). Each rule is testable. Tag where it came from:
@@ -29,5 +29,5 @@ Suggested packaging tier, or "unknown".
 Things to decide later.
 
 ## Sources
-Provenance for [src:N] tags is kept in private research notes.
+Provenance for [src:N] tags is kept in private research material.
 ```

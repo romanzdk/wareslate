@@ -1,7 +1,7 @@
 # Wareslate
 
-Open-source product management: collect customer feedback, link it to what you build,
-prioritize by customer impact, plan roadmaps, and share a public roadmap portal.
+Open-source product management: gather customer feedback, tie it to what you build,
+rank work by customer demand, plan releases, and publish a public roadmap with voting.
 
 **Status:** module specs drafted (S01–S15). No code yet.
 
